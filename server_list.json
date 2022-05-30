@@ -1,0 +1,9 @@
+{
+  "server_list": [
+    {
+      "ip": "IP",
+      "bbb": "b.dimain.ru",
+      "open": "moodle.domain.ru"
+    }
+  ]
+}
