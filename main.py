@@ -3,8 +3,8 @@ from server_list import get_server_list
 from Directories import Directories
 
 PATH_LIST_SERVER = "server_list.json"
-PATH_FROM = "/home/alex/bigbluebutton/"
-PATH_TO = "/home/alex/Документы/bigbluebutton/"
+PATH_FROM = "/var/lib/bigbluebutton/"
+PATH_TO = "*"
 
 if __name__ == '__main__':
     ser_list = get_server_list(PATH_LIST_SERVER)
